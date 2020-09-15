@@ -1,0 +1,49 @@
+/*
+font-family: 'Nanum Myeongjo', serif; (normal text)
+font-family: 'Russo One', sans-serif; (title)
+*/
+
+main{
+    text-align: center;
+    background-color: #ededed;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+h1{
+    font-family: 'Russo One', sans-serif; 
+}
+
+p{
+    font-family: 'Nanum Myeongjo', serif;
+}
+  
+#img-div{
+    background-color: white;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+img{
+    width: 25%;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+.bullets{
+    display: inline-block;
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+ul{
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif; 
+}
+
+li{
+    padding: 0.3em;
+}
